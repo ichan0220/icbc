@@ -1,0 +1,206 @@
+msgid   "(Please select)"
+msgstr  ""
+
+msgid   "ALL"
+msgstr  ""
+
+msgid   "ALL BALI"
+msgstr  ""
+
+msgid   "Activities Category"
+msgstr  ""
+
+msgid   "Address"
+msgstr  ""
+
+msgid   "Area Category"
+msgstr  ""
+
+msgid   "BALI"
+msgstr  ""
+
+msgid   "Base Directory"
+msgstr  ""
+
+msgid   "CENTRAL BALI"
+msgstr  ""
+
+msgid   "Cancel"
+msgstr  ""
+
+msgid   "Cannot access resources, Contact Administrator"
+msgstr  ""
+
+msgid   "Category"
+msgstr  ""
+
+msgid   "Controller Base Class"
+msgstr  ""
+
+msgid   "Create Table"
+msgstr  ""
+
+msgid   "Deals Area"
+msgstr  ""
+
+msgid   "Deals Category"
+msgstr  ""
+
+msgid   "Deals Comment"
+msgstr  ""
+
+msgid   "Deals Description"
+msgstr  ""
+
+msgid   "Deals Icon"
+msgstr  ""
+
+msgid   "Deals Item"
+msgstr  ""
+
+msgid   "Deals Name"
+msgstr  ""
+
+msgid   "Deals Place"
+msgstr  ""
+
+msgid   "Deals Thumbs"
+msgstr  ""
+
+msgid   "Delete"
+msgstr  ""
+
+msgid   "Description"
+msgstr  ""
+
+msgid   "Description (Chinese)"
+msgstr  ""
+
+msgid   "EAST COAST"
+msgstr  ""
+
+msgid   "Explorer Category"
+msgstr  ""
+
+msgid   "Extra"
+msgstr  ""
+
+msgid   "Fields"
+msgstr  ""
+
+msgid   "ICBC - Tour Guide Bali Website"
+msgstr  ""
+
+msgid   "Language"
+msgstr  ""
+
+msgid   "Legend Category"
+msgstr  ""
+
+msgid   "Legend Name"
+msgstr  ""
+
+msgid   "Main Category"
+msgstr  ""
+
+msgid   "Method Count"
+msgstr  ""
+
+msgid   "Methods"
+msgstr  ""
+
+msgid   "Model Base Class"
+msgstr  ""
+
+msgid   "Module Count"
+msgstr  ""
+
+msgid   "NORTH AND NORTWEST BALI"
+msgstr  ""
+
+msgid   "Name"
+msgstr  ""
+
+msgid   "Name (Chinese)"
+msgstr  ""
+
+msgid   "Not Published"
+msgstr  ""
+
+msgid   "Please visit the full site"
+msgstr  ""
+
+msgid   "Position"
+msgstr  ""
+
+msgid   "Published"
+msgstr  ""
+
+msgid   "Question"
+msgstr  ""
+
+msgid   "Record added"
+msgstr  ""
+
+msgid   "Record updated"
+msgstr  ""
+
+msgid   "Retype Password"
+msgstr  ""
+
+msgid   "SEARCH"
+msgstr  ""
+
+msgid   "SOUTH BALI"
+msgstr  ""
+
+msgid   "SOUTHWEST COAST"
+msgstr  ""
+
+msgid   "Size"
+msgstr  ""
+
+msgid   "Sub Category"
+msgstr  ""
+
+msgid   "THE ISLANDS"
+msgstr  ""
+
+msgid   "Title"
+msgstr  ""
+
+msgid   "Title (Chinese)"
+msgstr  ""
+
+msgid   "Type"
+msgstr  ""
+
+msgid   "Upload Image"
+msgstr  ""
+
+msgid   "Username/email or password not found"
+msgstr  ""
+
+msgid   "You must submit the word that appears in the image"
+msgstr  ""
+
+msgid   "activities"
+msgstr  ""
+
+msgid   "areas"
+msgstr  ""
+
+msgid   "culture"
+msgstr  ""
+
+msgid   "deals"
+msgstr  ""
+
+msgid   "default_lang"
+msgstr  ""
+
+msgid   "maps"
+msgstr  ""
+
+msgid   "red"
+msgstr  ""

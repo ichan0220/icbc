@@ -1,0 +1,498 @@
+msgid   "(Please select)"
+msgstr  ""
+
+msgid   "API Token"
+msgstr  ""
+
+msgid   "Activities"
+msgstr  ""
+
+msgid   "Activities Add"
+msgstr  ""
+
+msgid   "Activities Category Add"
+msgstr  ""
+
+msgid   "Activities Category Listing"
+msgstr  ""
+
+msgid   "Activities Listing"
+msgstr  ""
+
+msgid   "Add"
+msgstr  ""
+
+msgid   "Add Payment"
+msgstr  ""
+
+msgid   "Address"
+msgstr  ""
+
+msgid   "Amount"
+msgstr  ""
+
+#, php-format
+msgid   "Are you sure want to <strong style=\"color:#c00\">delete</strong> %s"
+msgstr  ""
+
+#, php-format
+msgid   "Are you sure want to <strong style=\"color:#c00\">delete</strong> %s "
+        "records"
+msgstr  ""
+
+#, php-format
+msgid   "Are you sure want to <strong style=\"color:#c00\">trash</strong> %s "
+        "record"
+msgstr  ""
+
+#, php-format
+msgid   "Are you sure want to <strong style=\"color:#c00\">trash</strong> %s "
+        "records"
+msgstr  ""
+
+msgid   "Area"
+msgstr  ""
+
+msgid   "Area Add"
+msgstr  ""
+
+msgid   "Area Category"
+msgstr  ""
+
+msgid   "Area Category Add"
+msgstr  ""
+
+msgid   "Area Category Listing"
+msgstr  ""
+
+msgid   "Area Listing"
+msgstr  ""
+
+msgid   "Back"
+msgstr  ""
+
+msgid   "Back to Listing"
+msgstr  ""
+
+msgid   "Base Directory"
+msgstr  ""
+
+msgid   "Body"
+msgstr  ""
+
+msgid   "Cache cleaned!"
+msgstr  ""
+
+msgid   "Cancel"
+msgstr  ""
+
+msgid   "Cannot access resources, Contact Administrator"
+msgstr  ""
+
+msgid   "Change Password"
+msgstr  ""
+
+msgid   "City"
+msgstr  ""
+
+msgid   "Close"
+msgstr  ""
+
+msgid   "Company Name"
+msgstr  ""
+
+msgid   "Configuration"
+msgstr  ""
+
+msgid   "Confirmation"
+msgstr  ""
+
+msgid   "Controller Base Class"
+msgstr  ""
+
+msgid   "Country"
+msgstr  ""
+
+msgid   "Create Table"
+msgstr  ""
+
+msgid   "Culture"
+msgstr  ""
+
+msgid   "Culture Add"
+msgstr  ""
+
+msgid   "Culture Category"
+msgstr  ""
+
+msgid   "Culture Category Add"
+msgstr  ""
+
+msgid   "Culture Category Listing"
+msgstr  ""
+
+msgid   "Culture Listing"
+msgstr  ""
+
+msgid   "Dashboard ICBC"
+msgstr  ""
+
+msgid   "Data CSV must be in form of:"
+msgstr  ""
+
+msgid   "Deals"
+msgstr  ""
+
+msgid   "Deals Add"
+msgstr  ""
+
+msgid   "Deals Listing"
+msgstr  ""
+
+msgid   "Delete"
+msgstr  ""
+
+msgid   "Email"
+msgstr  ""
+
+msgid   "Explore"
+msgstr  ""
+
+msgid   "Explore Add"
+msgstr  ""
+
+msgid   "Explore Category"
+msgstr  ""
+
+msgid   "Explore Category Add"
+msgstr  ""
+
+msgid   "Explore Category Listing"
+msgstr  ""
+
+msgid   "Explore Listing"
+msgstr  ""
+
+msgid   "Extra"
+msgstr  ""
+
+msgid   "Fax"
+msgstr  ""
+
+msgid   "Fields"
+msgstr  ""
+
+msgid   "First Name"
+msgstr  ""
+
+msgid   "First name"
+msgstr  ""
+
+msgid   "Full Name"
+msgstr  ""
+
+msgid   "GRT"
+msgstr  ""
+
+msgid   "Gender"
+msgstr  ""
+
+msgid   "Generate Password"
+msgstr  ""
+
+msgid   "Generate Token"
+msgstr  ""
+
+msgid   "Google ID"
+msgstr  ""
+
+msgid   "Group"
+msgstr  ""
+
+msgid   "Group Data"
+msgstr  ""
+
+msgid   "Group data added."
+msgstr  ""
+
+msgid   "Group data deleted."
+msgstr  ""
+
+msgid   "Home"
+msgstr  ""
+
+msgid   "Is default"
+msgstr  ""
+
+msgid   "Is main"
+msgstr  ""
+
+msgid   "Key"
+msgstr  ""
+
+msgid   "Last Login"
+msgstr  ""
+
+msgid   "Last Name"
+msgstr  ""
+
+msgid   "Last name"
+msgstr  ""
+
+msgid   "Line 1"
+msgstr  ""
+
+msgid   "Line 2"
+msgstr  ""
+
+msgid   "Line 3"
+msgstr  ""
+
+msgid   "Login"
+msgstr  ""
+
+msgid   "Logout"
+msgstr  ""
+
+msgid   "Long Value"
+msgstr  ""
+
+msgid   "Mail Code"
+msgstr  ""
+
+msgid   "Maps"
+msgstr  ""
+
+msgid   "Method Count"
+msgstr  ""
+
+msgid   "Methods"
+msgstr  ""
+
+msgid   "Model Base Class"
+msgstr  ""
+
+msgid   "Module Count"
+msgstr  ""
+
+msgid   "Modules"
+msgstr  ""
+
+msgid   "Modules have not been finished yet"
+msgstr  ""
+
+msgid   "Name"
+msgstr  ""
+
+msgid   "New Password"
+msgstr  ""
+
+msgid   "Next"
+msgstr  ""
+
+msgid   "No data to add."
+msgstr  ""
+
+msgid   "No privilege to add."
+msgstr  ""
+
+msgid   "No record available"
+msgstr  ""
+
+msgid   "Notification"
+msgstr  ""
+
+msgid   "OK"
+msgstr  ""
+
+msgid   "Old Password"
+msgstr  ""
+
+msgid   "Organization"
+msgstr  ""
+
+msgid   "Organization Add"
+msgstr  ""
+
+msgid   "Organization Listing"
+msgstr  ""
+
+msgid   "Password"
+msgstr  ""
+
+msgid   "Payment"
+msgstr  ""
+
+msgid   "Phone"
+msgstr  ""
+
+msgid   "Post Name"
+msgstr  ""
+
+msgid   "Price"
+msgstr  ""
+
+msgid   "Privilege added."
+msgstr  ""
+
+msgid   "Privilege deleted."
+msgstr  ""
+
+msgid   "Privileges"
+msgstr  ""
+
+msgid   "Profile"
+msgstr  ""
+
+msgid   "Profile Page"
+msgstr  ""
+
+msgid   "Province"
+msgstr  ""
+
+msgid   "Re-type New Password"
+msgstr  ""
+
+msgid   "Record added"
+msgstr  ""
+
+msgid   "Record updated"
+msgstr  ""
+
+msgid   "Reply"
+msgstr  ""
+
+msgid   "Retype Password"
+msgstr  ""
+
+msgid   "Role"
+msgstr  ""
+
+msgid   "Role name"
+msgstr  ""
+
+msgid   "Roles"
+msgstr  ""
+
+msgid   "Save"
+msgstr  ""
+
+msgid   "Short Value"
+msgstr  ""
+
+msgid   "Size"
+msgstr  ""
+
+msgid   "Status"
+msgstr  ""
+
+msgid   "Submit"
+msgstr  ""
+
+msgid   "Summary"
+msgstr  ""
+
+msgid   "System"
+msgstr  ""
+
+#, php-format
+msgid   "The %s field must be valid number value."
+msgstr  ""
+
+#, php-format
+msgid   "The %s field required."
+msgstr  ""
+
+msgid   "This page will be redirected back to referer soon..."
+msgstr  ""
+
+msgid   "Title"
+msgstr  ""
+
+msgid   "Total"
+msgstr  ""
+
+msgid   "Trash"
+msgstr  ""
+
+msgid   "Type"
+msgstr  ""
+
+msgid   "Unit"
+msgstr  ""
+
+msgid   "Upload success"
+msgstr  ""
+
+msgid   "Use Payment"
+msgstr  ""
+
+msgid   "Use Reply"
+msgstr  ""
+
+msgid   "User"
+msgstr  ""
+
+msgid   "User Add"
+msgstr  ""
+
+msgid   "User Listing"
+msgstr  ""
+
+msgid   "User Profile"
+msgstr  ""
+
+msgid   "Username"
+msgstr  ""
+
+msgid   "Username (Character and number only)"
+msgstr  ""
+
+msgid   "Username/Email"
+msgstr  ""
+
+msgid   "Username/email or password not found"
+msgstr  ""
+
+msgid   "Vessel Name"
+msgstr  ""
+
+msgid   "Website"
+msgstr  ""
+
+msgid   "Yahoo ID"
+msgstr  ""
+
+msgid   "You are <span style=\"color:red\">unauthorized</span> to see this "
+        "page."
+msgstr  ""
+
+msgid   "You must submit the word that appears in the image"
+msgstr  ""
+
+msgid   "city"
+msgstr  ""
+
+msgid   "country"
+msgstr  ""
+
+msgid   "format.long_date"
+msgstr  ""
+
+msgid   "format.mysql_datetime"
+msgstr  ""
+
+msgid   "format.short_date"
+msgstr  ""
+
+msgid   "format.short_datetime"
+msgstr  ""
+
+msgid   "format.short_time"
+msgstr  ""
+
+msgid   "name"
+msgstr  ""
+
+msgid   "province"
+msgstr  ""
